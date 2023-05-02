@@ -1,0 +1,45 @@
+{
+  "readmeUrl": "https://github.com/boloto1979",
+  "title": "My Terminal",
+  "name": "Pedro Lima",
+  "ascii": "myterminal",
+  "social": {
+    "github": "boloto1979",
+    "linkedin": "pedro-lima3233"
+  },
+  "email": "pedro.lima1979@hotmail.com",
+  "ps1_hostname": "portfolio",
+  "ps1_username": "pedro",
+  "repo": "https://github.com/boloto1979/My-Terminal",
+  "resume_url": "https://uploadnow.io/f/1SXpkgy",
+
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#1a1b1f",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#92ba6f",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#c65460"
+    },
+    "oldDark": {
+      "background": "#2e3440",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#a3be8c",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#bf616a"
+    }
+  }
+}
